@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>org.kentarok.cpan</id>
+<name>cpan-search</name>
+<version>1.0</version>
+<publisher>Kentaro Kuribayashi</publisher>
+<url>http://cpan.kentarok.org/</url>
+<description>Search CPAN Modules from Smartphone</description>
+<copyright>2010 by Kentaro Kuribayashi</copyright>
+<icon>default_app_logo.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <analytics>true</analytics>
+<guid>70e69ec1-94ca-4f9e-aa56-0421ef42f658</guid>
+</ti:app>
